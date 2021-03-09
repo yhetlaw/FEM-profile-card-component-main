@@ -1,0 +1,21 @@
+//Cores
+$darkCyan: hsl(185, 75%, 39%);
+$lightCyan: hsl(185, 75%, 60%);
+$lighterCyan: hsl(185, 75%, 80%);
+$darkBlue: hsl(229, 23%, 23%);
+$grayBlue: hsl(227, 10%, 46%);
+$darkGray: hsl(0, 0%, 59%);
+$background: linear-gradient(
+  90deg,
+  hsl(185, 86%, 60%),
+  hsl(188, 86%, 53%),
+  hsl(185, 86%, 60%)
+);
+
+$ball2-background: linear-gradient(
+  220deg,
+  hsl(180, 100%, 57%),
+  hsl(180, 75%, 20%)
+);
+
+$mainFont: 'Kumbh Sans', sans-serif;
