@@ -5,7 +5,9 @@ html {
 }
 
 body {
-  height: 97%;
+  height: 100%;
   font-family: $mainFont;
   background-color: darkcyan;
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
