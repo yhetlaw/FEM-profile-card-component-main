@@ -80,6 +80,9 @@
 .pic {
   border-radius: 100px;
   border: 5px solid white;
+  &:hover {
+    border: 5px solid #0000ee;
+  }
 }
 
 .div-2 {
@@ -128,6 +131,9 @@
 
   h1 {
     font-size: 20px;
+    &:hover {
+      color: #0000ee;
+    }
   }
 
   p {
