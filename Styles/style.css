@@ -108,7 +108,7 @@ body {
 }
 
 .pic:hover {
-  border: 5px solid #0000ee;
+  border: 5px solid #969696;
 }
 
 .div-2 {
@@ -138,7 +138,7 @@ body {
 
 .div-2 p {
   margin-top: 0;
-  color: gray;
+  color: #969696;
 }
 
 .div-3 {
@@ -184,7 +184,7 @@ body {
 }
 
 .div-3 h1:hover {
-  color: #0000ee;
+  color: gray;
 }
 
 .div-3 p {
